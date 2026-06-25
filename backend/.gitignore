@@ -1,0 +1,17 @@
+node_modules/
+
+.env
+
+*.log
+npm-debug.log*
+
+generated/
+dist/
+build/
+
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+src/config/privateKey.json
